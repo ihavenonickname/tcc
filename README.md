@@ -1,3 +1,3 @@
 # tcc
 
-sem nome por enquanto
+Protótipo de geração de caricaturas com redes adversárias generativas

@@ -2,7 +2,7 @@
 
 ## Resumo
 
-TBD
+A criatividade pode ser definida como a habilidade de criar algo que antes não existia, ou de conectar conceitos que antes não estavam conectados. Um sistema informatizado de criatividade computacional auxilia seres humanos em tarefas que exigem habilidades inovativas, servindo não apenas como uma ferramenta, mas sim como um colaborador na criação de trabalhos criativos. Dentro da área de criatividade computacional, o uso de redes adversárias generativas alcançou sucesso na sintetização de rostos humanos ultrarrealistas. No contexto de geração de rostos sintéticos, uma sub-área da criatividade computacional é a geração automática de caricaturas. A caricatura de um rosto humano é a representação desse rosto em que suas características são alteradas de modo a se diferenciar o máximo possível do rosto humano comum. Com base nesse contexto, este trabalho tem como objetivo desenvolver e validar um protótipo gerador de caricaturas baseado em redes adversárias generativas.
 
 Palavras-chave: Criatividade computacional, caricaturas, redes adversárias generativas
 
@@ -24,7 +24,7 @@ Li e outros (2021) utilizaram GANs para gerar caricaturas em três dimensões. O
 
 Chen e outros (2020) utilizaram GANs para alterar a expressão facial de caricaturas em imagens de duas e três dimensões. Os resultados obtidos foram muito satisfatórios, com as imagens geradas mantendo a qualidade da imagem original e preservando a identidade da caricatura.
 
-No cenário apresentado, considerando a importância da geração automática de caricaturas e o grande desafio técnico que tal projeto exibe, este trabalho tem como objetivo utilizar GANs para criar um protótipo informatizado gerador de caricaturas a partir de fotografias.
+No cenário apresentado, considerando a importância da geração automática de caricaturas e o grande desafio técnico que tal projeto exibe, este trabalho tem como objetivo utilizar GANs para criar um protótipo informatizado gerador de caricaturas a partir de fotografias. Para tanto, dará continuidade ao TCC da estudante Suelem Kleinkauf do curso de Sistemas de Informações, defendido em 2021. Esta conseguiu treinar um dataset para alterar imagens de faces, porém, sem os destaques necessários nas características faciais para delinear as caricaturas.
 
 ## Objetivos
 
@@ -41,7 +41,7 @@ Desenvolver um protótipo gerador de caricaturas a partir de fotos com o uso de 
 
 ## Metodologia
 
-A metodologia Design Science Research (DSR) foi escolhida para conduzir este trabalho. Segundo Çagdasß e Stubkjær (2010), DSR é um processo rigoroso para projetar artefatos a fim de resolver problemas observados, avaliar esses artefatos e comunicar os resultados. De acordo com Lacerda e outros (2013), o DSR é um conjunto de técnicas analíticas que permitem o desenvolvimento de pesquisas em diversas áreas, cujo objetivo é estudar, pesquisar e investigar o artificial e seu comportamento.
+A metodologia Design Science Research (DSR) foi escolhida para conduzir este trabalho. Segundo Çagdasß e Stubkjær (2010), DSR é um processo rigoroso para projetar artefatos a fim de resolver problemas observados, avaliar esses artefatos e comunicar os resultados. De acordo com Lacerda e outros (2013), o DSR é formado por um conjunto de técnicas analíticas que permitem o desenvolvimento de pesquisas em diversas áreas, cujo objetivo é estudar, pesquisar e investigar o artificial e seu comportamento.
 
 Essa metodologia será aplicada neste trabalho dividida em 5 etapas principais conforme descritas por Junior e outros (2017), apresentadas a seguir junto de sua descrição:
 
@@ -76,7 +76,38 @@ Essa metodologia será aplicada neste trabalho dividida em 5 etapas principais c
 
 ## Bibliografia
 
-* IPSUM, Lorem et al, **blablabla**, 2017.
-* IPSUM, Lorem et al, **blablabla**, 2017.
-* IPSUM, Lorem et al, **blablabla**, 2017.
-* IPSUM, Lorem et al, **blablabla**, 2017.
+Em ordem de citação no texto:
+
+* KANTOSALO, Anna. Human-Computer Co-Creativity: Designing, Evaluating and Modelling Computational Collaborators for Poetry Writing. Dissertação de doutorado - Faculdade de ciências da Universidade de Helsinki, 2019.
+* COLTON, Simon et al. Computational Creativity: Coming of Age. Association for the Advancement of Artificial Intelligence, 2009.
+* CARNOVALINI, Filippo; RODÁ, Antonio. Computational Creativity and Music Generation Systems: An Introduction to the State of the Art. Revista Frontiers in Artificial Intelligence, 2020.
+* ISSA, Lana et al. Computational Creativity: The Design of a Creative Computer Program. nternational Conference on Information and Communication Systems, 2019.
+* SHI, Yichun et al. WarpGAN: Automatic Caricature Generation. Computer Vision Foundation, 2019.
+* RHODES, Gillian et al. Identification and Ratings of Caricatures: Implications for Mental Representations of Faces. Revista Cognitive Psychology, 1987.
+* SADIMON, Suriati Bte et al. Computer Generated Caricature: A Survey. International Conference on Cyberworlds, 2010.
+* CRESWELL, Antonia et al. Generative Adversarial Networks. IEEE Signal Processing Magazine, 2018.
+* ZHANG, Kaihao et al. Disentangled Feature Networks for Facial Portrait and Caricature Generation. IEEE Transactions on Multimedia, 2021.
+* LI, Song et al. Deep 3D caricature face generation with identity and structure consistency. Revista Neurocomputing, 2021.
+* CHEN, Keyu et al. Modeling Caricature Expressions by 3D Blendshape and Dynamic Texture. ACM International Conference on Multimedia, 2020.
+* KLEINKAUF, Suelem. Protótipo de Geração de Caricaturas Baseada em Fotos. Trabalho de Conclusão de Curso (Monografia) - Curso de Sistemas de Informação, Universidade FEEVALE, 2021.
+* ÇAGDASSS, Volkan; STUBKJÆR, Erik. Design research for cadastral systems. Computers, Environment and Urban Systems, 2010.
+* LACERDA, Daniel Pacheco et al. Design Science Research: método de pesquisa para a engenharia de produção. Revista Gestão & Produção, 2013.
+* JÚNIOR, Vanderlei Freitas et al. Design Science Research Methodology As Methodological Strategy for Technological Research. Revista Espacios, 2017.
+
+Em ordem alfabética pelo nome do autor:
+
+* ÇAGDASSS, Volkan; STUBKJÆR, Erik. Design research for cadastral systems. Computers, Environment and Urban Systems, 2010.
+* CARNOVALINI, Filippo; RODÁ, Antonio. Computational Creativity and Music Generation Systems: An Introduction to the State of the Art. Revista Frontiers in Artificial Intelligence, 2020.
+* CHEN, Keyu et al. Modeling Caricature Expressions by 3D Blendshape and Dynamic Texture. ACM International Conference on Multimedia, 2020.
+* COLTON, Simon et al. Computational Creativity: Coming of Age. Association for the Advancement of Artificial Intelligence, 2009.
+* CRESWELL, Antonia et al. Generative Adversarial Networks. IEEE Signal Processing Magazine, 2018.
+* ISSA, Lana et al. Computational Creativity: The Design of a Creative Computer Program. International Conference on Information and Communication Systems, 2019.
+* JÚNIOR, Vanderlei Freitas et al. Design Science Research Methodology As Methodological Strategy for Technological Research. Revista Espacios, 2017.
+* KANTOSALO, Anna. Human-Computer Co-Creativity: Designing, Evaluating and Modelling Computational Collaborators for Poetry Writing. Dissertação de doutorado - Faculdade de ciências da Universidade de Helsinki, 2019.
+* KLEINKAUF, Suelem. Protótipo de Geração de Caricaturas Baseada em Fotos. Trabalho de Conclusão de Curso (Monografia) - Curso de Sistemas de Informação, Universidade FEEVALE, 2021.
+* LACERDA, Daniel Pacheco et al. Design Science Research: método de pesquisa para a engenharia de produção. Revista Gestão & Produção, 2013.
+* LI, Song et al. Deep 3D caricature face generation with identity and structure consistency. Revista Neurocomputing, 2021.
+* RHODES, Gillian et al. Identification and Ratings of Caricatures: Implications for Mental Representations of Faces. Revista Cognitive Psychology, 1987.
+* SADIMON, Suriati Bte et al. Computer Generated Caricature: A Survey. International Conference on Cyberworlds, 2010.
+* SHI, Yichun et al. WarpGAN: Automatic Caricature Generation. Computer Vision Foundation, 2019.
+* ZHANG, Kaihao et al. Disentangled Feature Networks for Facial Portrait and Caricature Generation. IEEE Transactions on Multimedia, 2021.

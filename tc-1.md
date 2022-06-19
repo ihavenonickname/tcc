@@ -46,6 +46,7 @@ Onde:
 * $x$ é um valor de entrada
 * $w$ é o peso daquela entrada
 * $b$ é o bias
+* $f$ é a função de ativação
 * $z$ é o valor de saída
 
 Ainda segundo Khelleher (2019), deep learning é uma sub-área da inteligência artificial focada em criar grandes modelos de redes neurais artificiais capazes de tomar decisões baseadas em dados, sendo particularmente aderente a contextos em que os dados são abundantes e complexos. De acordo com este autor, sistemas de deep learning são usado por toda a indústria tecnológica, sendo o reconhecimento facial um dos exemplos mais notáveis.

@@ -1,5 +1,17 @@
 # Protótipo de geração de caricaturas com redes adversárias generativas
 
+## Resumo
+
+Um sistema informatizado de criatividade computacional auxilia seres humanos em tarefas que exigem habilidades inovativas, servindo não apenas como uma ferramenta, mas sim como um colaborador na criação de trabalhos criativos. Dentro da área de criatividade computacional, o uso de redes adversárias generativas alcançou sucesso na sintetização de rostos humanos ultrarrealistas. No contexto de geração de rostos sintéticos, uma sub-área da criatividade computacional é a geração automática de caricaturas. A caricatura de um rosto humano é a representação desse rosto em que suas características são alteradas de modo a se diferenciar o máximo possível do rosto humano comum. Com base nesse contexto, este trabalho tem como objetivo desenvolver e validar um protótipo gerador de caricaturas baseado em redes adversárias generativas, utilizando a metodologia Design Science Research para nortear todas as etapas da pesquisa.
+
+Palavras-chave: Criatividade computacional, caricaturas, redes adversárias generativas
+
+## Abstract
+
+A computational creativity information system helps human beings with tasks that require creative abilities, serving not only as a tool, but also as a colaborator on the creation of creative works. In the field of computational creativity, the use of generative adversarial networks for generating ultra-realistic human faces has been successful. In the context of generating synhtetic human faces, a subfield of computational creativity is the study of automatic caricature generation. The caricature of a human face is the representation of said face in which its traits are modified so that it differs as much as possible from the regular human face. Given that context, this work aims to develop and validate an automatic caricare generator prototype based on generative adversarial networks, using Design Science Research to guide all the stages of this research.
+
+Keywords: Computational creativity, caricatures, generative adversarial networks
+
 ## Introdução
 
 Criatividade computacional é uma área de pesquisa multidisciplinar que combina ciência da computação, psicologia, interação humano-computador e engenharia de software (Kantosalo, 2019). De acordo com Colton e outros (2009), o estudo da criatividade computacional permite entender a criatividade humana, bem como criar programas que serão usados por pessoas criativas, de modo que o programa atue como um colaborador ao invés de uma mera ferramenta.
